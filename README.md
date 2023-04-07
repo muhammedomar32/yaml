@@ -1,6 +1,4 @@
-    i try to create distributed Cluster MinIO on Kubernetes 
-    i god this error message , could you please review my code and support me for run minio 
-    cluster 4 replicas, running on minikube 
+     i try to deploy MinIO distributed Cluster on Kubernetes , i wrote yaml file in the below link , i got errors logs from the pods , could you please review my yaml and support me for run minio as Cluster MinIO on Kubernetes cluster 4 replicas, running on minikube please check my yaml file here
 
 [![enter image description here][1]][1]
 
